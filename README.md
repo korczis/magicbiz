@@ -3,7 +3,21 @@ A Decentralized Autonomous Organization Proof of Concept
 
 ## Core Idea
 
-Decentralized Autonomous Organization (often abbreviated "DAO"; sometimes referred to as a Fully Automated Business Entity or Distributed Autonomous Corporation/Distributed Autonomous Company, often abbreviated "FAB" or "DAC") is a decentralized network of narrow-AI autonomous agents which perform an output-maximizing production function and which divides its labor into computationally intractable tasks (which it incentivizes humans to do) and tasks which it performs itself. It can be thought of as a corporation run without any human involvement under the control of an incorruptible set of business rules. These rules are typically implemented as publicly auditable open-source software distributed across the computers of their stakeholders. A human becomes a stakeholder by buying stock in the company or being paid in that stock to provide services for the company. This stock may entitle its owner to a share of the profits of the DAO, participation in its growth, and/or a say in how it is run. [1]
+Based on Idea of Decentralized Autonomous Organization. [1]
+
+
+## Principles
+
+- They are corporations – they are free and independent persons (but don’t have legal personality).
+- They are autonomous – once up to speed, they no longer need (or heed) their creators.
+- They are distributed – there are no central points of control or failure that can be attacked.
+- They are transparent – their books and business rules are auditable by all.
+- They are confidential – customer information is securely (and incorruptibly) protected.
+- They are trustworthy – because no interaction with them depends on trust.
+- They are fiduciaries – acting solely in their customers’ and shareholders’ interests.
+- They are self-regulating – they robotically obey their own rules.
+- They are incorruptible – no one can exercise seductive or coercive influence over them.
+- They are sovereign – over their digital resources (but don't have legal capacity).[5]
 
 ## References
 
