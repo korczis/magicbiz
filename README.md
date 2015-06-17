@@ -19,6 +19,11 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 - They are incorruptible – no one can exercise seductive or coercive influence over them.
 - They are sovereign – over their digital resources (but don't have legal capacity).[5]
 
+## Technologies 
+
+- [Tor](https://en.wikipedia.org/wiki/Tor_(anonymity_network)) - anonymous communication
+- [Blockchain](https://en.wikipedia.org/wiki/Block_chain_(database)) - distributed data store that holds a public ledger of transactions  
+
 ## References
 
 1 - [Decentralized Autonomous Organization](https://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization)
