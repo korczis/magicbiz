@@ -1,5 +1,8 @@
 # magicbiz
+
 A Decentralized Autonomous Organization Proof of Concept
+
+- [Decentralized Autonomous Organization](https://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization)
 
 ## Core Idea
 
