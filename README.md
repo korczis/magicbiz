@@ -30,6 +30,8 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 
 ## Consensus
 
+*Consensus decision-making is a group decision-making process in which group members develop, and agree to support, a decision in the best interest of the whole. Consensus may be defined professionally as an acceptable resolution, one that can be supported, even if not the "favourite" of each individual.*
+
 - [Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science)) - Family of protocols for solving consensus in a network of unreliable processors. Consensus is the process of agreeing on one result among a group of participants.
 - [Raft](https://en.wikipedia.org/wiki/Raft_(computer_science)) - Raft is a consensus algorithm designed as an alternative to Paxos.
 
