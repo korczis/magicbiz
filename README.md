@@ -2,7 +2,9 @@
 
 A Decentralized Autonomous Organization Proof of Concept
 
-- [Decentralized Autonomous Organization](https://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization)
+- [Decentralized Autonomous Organization (DAO)](https://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization)
+
+DAO is a decentralized network of narrow-AI autonomous agents which perform an output-maximizing production function and which divides its labor into computationally intractable tasks (which it incentivizes humans to do) and tasks which it performs itself.
 
 ## Core Idea
 
