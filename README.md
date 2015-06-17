@@ -35,7 +35,7 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 
 ## Processes
 
-*A business process or business method is a collection of related, structured activities or tasks that produce a specific service or product (serve a particular goal) for a particular customer or customers. It may often be visualized as a flowchart of a sequence of activities with interleaving decision points or as a Process Matrix of a sequence of activities with relevance rules based on data in the process.* [4]
+*A business process or business method is a collection of related, structured activities or tasks that produce a specific service or product (serve a particular goal) for a particular customer or customers.* [4]
 
 ### Voting
 
