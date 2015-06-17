@@ -43,7 +43,16 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 
 ## Modules
 
-### Version Control 
+### Anonymous Version Control System
+
+### Anonymous Domain Registration
+
+### Anonymous Cloud Management
+
+- Instance management
+
+  - Deploy
+  - Monitor
 
 ## References
 
