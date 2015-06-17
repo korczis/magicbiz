@@ -35,6 +35,8 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 
 ## Processes
 
+*A business process or business method is a collection of related, structured activities or tasks that produce a specific service or product (serve a particular goal) for a particular customer or customers. It may often be visualized as a flowchart of a sequence of activities with interleaving decision points or as a Process Matrix of a sequence of activities with relevance rules based on data in the process.* [4]
+
 ### Voting
 
 *Voting is a method for a group such as a meeting or an electorate to make a decision or express an opinion—often following discussions, debates, or election campaigns. Democracies elect holders of high office by voting.*
@@ -49,3 +51,4 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 2. [Blockchain](https://en.wikipedia.org/wiki/Block_chain_(database))
 3. [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
 4. [Software Configuration Management](https://en.wikipedia.org/wiki/Software_configuration_management)
+5. [Business Process (Wikipedia)](https://en.wikipedia.org/wiki/Business_process)
