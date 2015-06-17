@@ -37,3 +37,4 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 ## References
 
 1 - [Decentralized Autonomous Organization](https://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization)
+2 - [Blockchain](https://en.wikipedia.org/wiki/Block_chain_(database))
