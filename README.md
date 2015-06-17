@@ -29,6 +29,11 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 - [Tor](https://en.wikipedia.org/wiki/Tor_(anonymity_network)) - anonymous communication
 - [Blockchain](https://en.wikipedia.org/wiki/Block_chain_(database)) - distributed data store that holds a public ledger of transactions  
 
+### Consensus
+
+- [Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science)) - Family of protocols for solving consensus in a network of unreliable processors. Consensus is the process of agreeing on one result among a group of participants.
+- [Raft](https://en.wikipedia.org/wiki/Raft_(computer_science)) - Raft is a consensus algorithm designed as an alternative to Paxos.
+
 ## References
 
 1 - [Decentralized Autonomous Organization](https://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization)
