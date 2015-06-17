@@ -10,7 +10,6 @@ DAO is a decentralized network of narrow-AI autonomous agents which perform an o
 
 Based on Idea of Decentralized Autonomous Organization. [1]
 
-
 ## Principles
 
 - They are corporations – they are free and independent persons (but don’t have legal personality).
@@ -29,13 +28,18 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 - [Tor](https://en.wikipedia.org/wiki/Tor_(anonymity_network)) - anonymous communication
 - [Blockchain](https://en.wikipedia.org/wiki/Block_chain_(database)) - distributed data store that holds a public ledger of transactions  
 
-### Consensus
+## Consensus
 
 - [Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science)) - Family of protocols for solving consensus in a network of unreliable processors. Consensus is the process of agreeing on one result among a group of participants.
 - [Raft](https://en.wikipedia.org/wiki/Raft_(computer_science)) - Raft is a consensus algorithm designed as an alternative to Paxos.
+
+## Modules
+
+### Version Control 
 
 ## References
 
 1. [Decentralized Autonomous Organization](https://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization)
 2. [Blockchain](https://en.wikipedia.org/wiki/Block_chain_(database))
 3. [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
+4. [Software Configuration Management](https://en.wikipedia.org/wiki/Software_configuration_management)
