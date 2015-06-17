@@ -23,11 +23,6 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 - They are [incorruptible](https://en.wikipedia.org/?title=Corruption) – no one can exercise seductive or coercive influence over them.
 - They are [sovereign](https://en.wikipedia.org/wiki/Sovereignty) – over their digital resources (but don't have legal capacity).[5]
 
-## Technologies 
-
-- [Tor](https://en.wikipedia.org/wiki/Tor_(anonymity_network)) - anonymous communication
-- [Blockchain](https://en.wikipedia.org/wiki/Block_chain_(database)) - distributed data store that holds a public ledger of transactions  
-
 ## Consensus
 
 *Consensus decision-making is a group decision-making process in which group members develop, and agree to support, a decision in the best interest of the whole. Consensus may be defined professionally as an acceptable resolution, one that can be supported, even if not the "favourite" of each individual.*
@@ -42,6 +37,11 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 ### Voting
 
 *Voting is a method for a group such as a meeting or an electorate to make a decision or express an opinion—often following discussions, debates, or election campaigns. Democracies elect holders of high office by voting.*
+
+## Technologies 
+
+- [Tor](https://en.wikipedia.org/wiki/Tor_(anonymity_network)) - anonymous communication
+- [Blockchain](https://en.wikipedia.org/wiki/Block_chain_(database)) - distributed data store that holds a public ledger of transactions  
 
 ## Modules
 
