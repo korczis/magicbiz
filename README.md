@@ -53,3 +53,4 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 4. [Consensus Decision Making](https://en.wikipedia.org/wiki/Consensus_decision-making)
 5. [Software Configuration Management](https://en.wikipedia.org/wiki/Software_configuration_management)
 6. [Business Process (Wikipedia)](https://en.wikipedia.org/wiki/Business_process)
+7. [Voting (Wikipedia))[https://en.wikipedia.org/wiki/Voting]
