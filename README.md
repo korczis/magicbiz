@@ -23,6 +23,11 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 - They are [incorruptible](https://en.wikipedia.org/?title=Corruption) – no one can exercise seductive or coercive influence over them.
 - They are [sovereign](https://en.wikipedia.org/wiki/Sovereignty) – over their digital resources (but don't have legal capacity).[5]
 
+## Prerequisites
+
+- Anonymous Hosting (AWS/EC2)
+- Anonymous Domain Management (AWS/Route53)
+
 ## Consensus
 
 *Consensus decision-making is a group decision-making process in which group members develop, and agree to support, a decision in the best interest of the whole. Consensus may be defined professionally as an acceptable resolution, one that can be supported, even if not the "favourite" of each individual.*
