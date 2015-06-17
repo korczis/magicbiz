@@ -33,6 +33,12 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 - [Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science)) - Family of protocols for solving consensus in a network of unreliable processors. Consensus is the process of agreeing on one result among a group of participants.
 - [Raft](https://en.wikipedia.org/wiki/Raft_(computer_science)) - Raft is a consensus algorithm designed as an alternative to Paxos.
 
+## Processes
+
+### Voting
+
+*Voting is a method for a group such as a meeting or an electorate to make a decision or express an opinion—often following discussions, debates, or election campaigns. Democracies elect holders of high office by voting.*
+
 ## Modules
 
 ### Version Control 
