@@ -19,7 +19,7 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 - They are [confidential](https://en.wikipedia.org/wiki/Confidentiality) – customer information is securely (and incorruptibly) protected.
 - They are [trustworthy](https://en.wikipedia.org/wiki/Trust_(social_sciences)) – because no interaction with them depends on trust.
 - They are [fiduciaries](https://en.wikipedia.org/wiki/Fiduciary) – acting solely in their customers’ and shareholders’ interests.
-- They are self-regulating – they robotically obey their own rules.
+- They are [self-regulating](https://en.wikipedia.org/wiki/Self-regulatory_organization) – they robotically obey their own rules.
 - They are [incorruptible](https://en.wikipedia.org/?title=Corruption) – no one can exercise seductive or coercive influence over them.
 - They are [sovereign](https://en.wikipedia.org/wiki/Sovereignty) – over their digital resources (but don't have legal capacity).[5]
 
