@@ -50,5 +50,6 @@ Based on Idea of Decentralized Autonomous Organization. [1]
 1. [Decentralized Autonomous Organization](https://en.wikipedia.org/wiki/Decentralized_Autonomous_Organization)
 2. [Blockchain](https://en.wikipedia.org/wiki/Block_chain_(database))
 3. [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
-4. [Software Configuration Management](https://en.wikipedia.org/wiki/Software_configuration_management)
-5. [Business Process (Wikipedia)](https://en.wikipedia.org/wiki/Business_process)
+4. [Consensus Decision Making](https://en.wikipedia.org/wiki/Consensus_decision-making)
+5. [Software Configuration Management](https://en.wikipedia.org/wiki/Software_configuration_management)
+6. [Business Process (Wikipedia)](https://en.wikipedia.org/wiki/Business_process)
